@@ -1,3 +1,3 @@
-# nome: Edu
+# Nome: Edu
 # Empresa: Real Shake
 # Função: Sócio
